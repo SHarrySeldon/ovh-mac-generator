@@ -6,8 +6,8 @@ OVH.
 
 ## Requirements
 
-* Node.js >= 4.0.0
-
+* Node.js >= 4.*
+ 
 ## Setup
 
 * Obtain Node.js 4.0.0 or above and NPM
